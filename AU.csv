@@ -1,0 +1,4 @@
+,Name,Cust_ID,Open_dt,Consul_dt,Vacc_type,Doc_Name,State,Country,DOB,Is_Active
+0,Janhavi dubule,129867,2021-06-11,2021-06-12,MVD,Paul,T,AU,1998-10-10,A
+1,Venkhatesh Arunachalam,178945,2021-09-23,2021-09-24,MVD,Benjimin,NSW,AU,1999-01-29,A
+2,Jacob,268916,2021-06-11,2021-06-12,MVD,Paul,V,AU,1998-11-11,N

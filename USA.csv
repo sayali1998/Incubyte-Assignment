@@ -1,0 +1,3 @@
+,Name,Cust_ID,Open_dt,Consul_dt,Vacc_type,Doc_Name,State,Country,DOB,Is_Active
+0,Shantanu Ghar,123457,2021-10-14,2021-10-15,MVD,Naik,C,USA,1998-11-11,A
+1,Aaditya Gurav,659816,2021-06-11,2021-06-12,MVD,Naik,FL,USA,1998-04-09,N
